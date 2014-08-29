@@ -67,6 +67,12 @@ QObject[windowTitle="Issues"]
     background: #666666;
 }
 
+QObject[windowTitle="Locals and Expressions"]
+{
+    color: #000000;
+    background: #FFFFFF;
+}
+
 QWidget[windowTitle="Compile Output"],
 QWidget[windowTitle="Version Control"],
 QWidget[windowTitle="QML/JS Console"]
